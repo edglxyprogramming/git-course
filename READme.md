@@ -4,3 +4,4 @@ company - Teluskotest
 create an avatar for user
 TITLE
 FEATURE NEW
+BROKEN CODE
